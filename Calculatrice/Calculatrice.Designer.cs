@@ -115,6 +115,7 @@
             // 
             // txtSigne
             // 
+            this.txtSigne.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.txtSigne.FormattingEnabled = true;
             this.txtSigne.Items.AddRange(new object[] {
             "+",
