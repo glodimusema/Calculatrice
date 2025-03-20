@@ -1,0 +1,11 @@
+c:\users\glodi\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+c:\users\glodi\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+c:\users\glodi\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+c:\users\glodi\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+c:\users\glodi\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+c:\users\glodi\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+c:\users\glodi\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+c:\users\glodi\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+c:\users\glodi\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+c:\users\glodi\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+c:\users\glodi\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Calculatrice.resources
